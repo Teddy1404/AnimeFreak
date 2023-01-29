@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AnimeFreak/static/css/main.5d2e0135.css",
+    "main.js": "/AnimeFreak/static/js/main.483ae657.js",
+    "static/js/787.633816a4.chunk.js": "/AnimeFreak/static/js/787.633816a4.chunk.js",
+    "static/media/jujutsu-kaisen-gojo-satoru.gif": "/AnimeFreak/static/media/jujutsu-kaisen-gojo-satoru.860dfd7449df4eb07e1f.gif",
+    "static/media/luffy-meydsama.gif": "/AnimeFreak/static/media/luffy-meydsama.125f5d3080c31f03931c.gif",
+    "static/media/bleach.gif": "/AnimeFreak/static/media/bleach.620629f35b634a9c7c49.gif",
+    "static/media/demon-slayer-kimetsu-no-yaiba.gif": "/AnimeFreak/static/media/demon-slayer-kimetsu-no-yaiba.6e15024e6f067788882f.gif",
+    "static/media/eren.gif": "/AnimeFreak/static/media/eren.7a40b72f719ecfebae04.gif",
+    "static/media/gon.gif": "/AnimeFreak/static/media/gon.9b7dc5a84da6868c0e3f.gif",
+    "static/media/naruto.gif": "/AnimeFreak/static/media/naruto.13f2587fb4313291c80c.gif",
+    "static/media/logo.svg": "/AnimeFreak/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AnimeFreak/index.html",
+    "main.5d2e0135.css.map": "/AnimeFreak/static/css/main.5d2e0135.css.map",
+    "main.483ae657.js.map": "/AnimeFreak/static/js/main.483ae657.js.map",
+    "787.633816a4.chunk.js.map": "/AnimeFreak/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d2e0135.css",
+    "static/js/main.483ae657.js"
+  ]
+}
